@@ -1,0 +1,1 @@
+{"data":{"markdownRemark":{"html":"<h1>BA</h1>\n<h2>BAA</h2>\n<h3>BAAA</h3>\n<h2>BB</h2>\n<h2>BBA</h2>","frontmatter":{"title":"","categoryKey":null},"headings":[{"value":"BA","depth":1},{"value":"BAA","depth":2},{"value":"BAAA","depth":3},{"value":"BB","depth":2},{"value":"BBA","depth":2}],"fields":{"slug":"/foo/A/BA/"}}},"pageContext":{"slug":"/foo/A/BA/"}}
