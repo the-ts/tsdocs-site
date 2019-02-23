@@ -1,1 +1,1 @@
-{"data":{"allFooNavYaml":{"edges":[{"node":{"label":"A","foldable":true,"items":[{"label":"BA","foldable":null,"href":"/foo/A/BA","items":null},{"label":"BB","foldable":true,"href":"/foo/A/BB","items":[{"label":"BBA","href":"/foo/A/BB/BBA"},{"label":"BBB","href":"/foo/A/BB/BBB"}]}]}}]}}}
+{"data":{"allFooNavYaml":{"edges":[{"node":{"label":"A","foldable":true,"items":[{"label":"BA","foldable":null,"href":"./foo/A/BA","items":null},{"label":"BB","foldable":true,"href":"./foo/A/BB","items":[{"label":"BBA","href":"./foo/A/BB/BBA"},{"label":"BBB","href":"./foo/A/BB/BBB"}]}]}}]}}}
